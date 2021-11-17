@@ -24,7 +24,7 @@ The New-AzureADGroupAppRoleAssignment cmdlet assigns a group of users to an appl
 
 ### Example 1
 ```powershell
-PS C:\> {{ Add example code here }}
+PS C:\> {{ Add example code here }} 
 ```
 
 {{ Add example description here }}
